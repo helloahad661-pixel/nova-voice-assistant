@@ -1,0 +1,6 @@
+numpy
+sounddevice
+soundfile
+pyobjc
+faster-whisper
+kokoro-onnx
